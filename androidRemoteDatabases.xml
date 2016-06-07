@@ -1,0 +1,67 @@
+<application>
+  <component name="AndroidRemoteDataBaseManager">
+    <databases>
+      <entry>
+        <key>
+          <db-key>
+            <option name="deviceId" value="SERIAL_NUMBER_TA090040CQ" />
+            <option name="packageName" value="com.dgj.onedream" />
+            <option name="databaseName" value="jpush_statistics.db" />
+          </db-key>
+        </key>
+        <value>
+          <db-info>
+            <option name="modificationTime" value="1464230747" />
+          </db-info>
+        </value>
+      </entry>
+      <entry>
+        <key>
+          <db-key>
+            <option name="deviceId" value="SERIAL_NUMBER_TA090040CQ" />
+            <option name="packageName" value="com.dgj.onedream" />
+            <option name="databaseName" value="cc" />
+          </db-key>
+        </key>
+        <value>
+          <db-info>
+            <option name="modificationTime" value="1464602863" />
+            <option name="referringProjects">
+              <set>
+                <option value="D:/Projects/android" />
+              </set>
+            </option>
+          </db-info>
+        </value>
+      </entry>
+      <entry>
+        <key>
+          <db-key>
+            <option name="deviceId" value="SERIAL_NUMBER_TA090040CQ" />
+            <option name="packageName" value="com.dgj.onedream" />
+            <option name="databaseName" value="service.db-journal" />
+          </db-key>
+        </key>
+        <value>
+          <db-info>
+            <option name="modificationTime" value="1464622980" />
+          </db-info>
+        </value>
+      </entry>
+      <entry>
+        <key>
+          <db-key>
+            <option name="deviceId" value="SERIAL_NUMBER_TA090040CQ" />
+            <option name="packageName" value="com.dgj.onedream" />
+            <option name="databaseName" value="jpush_local_notification.db" />
+          </db-key>
+        </key>
+        <value>
+          <db-info>
+            <option name="modificationTime" value="1464656079" />
+          </db-info>
+        </value>
+      </entry>
+    </databases>
+  </component>
+</application>
