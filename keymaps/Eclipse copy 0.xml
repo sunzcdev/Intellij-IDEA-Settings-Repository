@@ -1,1 +1,5 @@
-<keymap version="1" name="Eclipse copy 0" parent="Eclipse" />
+<keymap version="1" name="Eclipse copy 0" parent="Eclipse">
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+</keymap>
