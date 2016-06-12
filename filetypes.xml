@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="购物车文档" type="PLAIN_TEXT" />
       <mapping pattern="doc" type="PLAIN_TEXT" />
       <mapping pattern="文档" type="PLAIN_TEXT" />
     </extensionMap>
