@@ -30,8 +30,16 @@
           <option name="url" value="git@github.com:senzhk/ADBKeyBoard.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:googlesamples/android-BluetoothChat.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:googlesamples/android-ScreenCapture.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="I:\Projects" />
+    <option name="cloneParentDir" value="D:\Projects" />
   </component>
 </application>
