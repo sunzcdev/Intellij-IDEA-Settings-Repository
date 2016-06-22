@@ -164,4 +164,17 @@
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="https://171.8.119.77/svn/研发中心/基础平台部/驾校平台V2.0/移动终端/安卓版/工程/YunXing">
+          <value>
+            <set>
+              <option value="D:\WorkProjects\YunXing" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </application>
