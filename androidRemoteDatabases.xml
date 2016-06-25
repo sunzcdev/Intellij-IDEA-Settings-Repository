@@ -33,6 +33,25 @@
         <key>
           <db-key>
             <option name="deviceId" value="SERIAL_NUMBER_TA090040CQ" />
+            <option name="packageName" value="com.jzj.yunxing" />
+            <option name="databaseName" value="subject.db" />
+          </db-key>
+        </key>
+        <value>
+          <db-info>
+            <option name="modificationTime" value="1466564698" />
+            <option name="referringProjects">
+              <set>
+                <option value="D:/WorkProjects/YunXing" />
+              </set>
+            </option>
+          </db-info>
+        </value>
+      </entry>
+      <entry>
+        <key>
+          <db-key>
+            <option name="deviceId" value="SERIAL_NUMBER_TA090040CQ" />
             <option name="packageName" value="com.dgj.onedream" />
             <option name="databaseName" value="service.db-journal" />
           </db-key>
