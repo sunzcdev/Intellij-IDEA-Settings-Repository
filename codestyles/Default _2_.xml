@@ -1,4 +1,7 @@
 <code_scheme name="Default (2)">
+  <AndroidXmlCodeStyleSettings>
+    <option name="USE_CUSTOM_SETTINGS" value="true" />
+  </AndroidXmlCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_LINE_BREAKS" value="false" />
     <option name="XML_ALIGN_ATTRIBUTES" value="false" />
@@ -17,7 +20,7 @@
             <match>
               <AND>
                 <NAME>xmlns:android</NAME>
-                <XML_NAMESPACE>Namespace:</XML_NAMESPACE>
+                <XML_NAMESPACE />
               </AND>
             </match>
           </rule>
@@ -27,7 +30,7 @@
             <match>
               <AND>
                 <NAME>xmlns:.*</NAME>
-                <XML_NAMESPACE>Namespace:</XML_NAMESPACE>
+                <XML_NAMESPACE />
               </AND>
             </match>
             <order>BY_NAME</order>
