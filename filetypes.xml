@@ -6,6 +6,7 @@
       <mapping pattern="doc" type="PLAIN_TEXT" />
       <mapping pattern="文档" type="PLAIN_TEXT" />
       <mapping pattern="SendCircleDoc" type="PLAIN_TEXT" />
+      <mapping pattern="json" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
