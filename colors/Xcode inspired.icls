@@ -5,7 +5,7 @@
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Microsoft YaHei UI" />
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
@@ -13,7 +13,6 @@
     <option name="CARET_ROW_COLOR" value="ffffff" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="INDENT_GUIDE" value="b5d5ff" />
-    <option name="LINE_NUMBERS_COLOR" value="999999" />
     <option name="METHOD_SEPARATORS_COLOR" value="ffffff" />
     <option name="SELECTED_INDENT_GUIDE" value="0" />
     <option name="SELECTED_TEARLINE_COLOR" value="b5d5ff" />
@@ -490,12 +489,6 @@
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="0" />
-      </value>
-    </option>
-    <option name="TEXT">
-      <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
