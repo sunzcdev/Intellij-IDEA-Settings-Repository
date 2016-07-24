@@ -1,7 +1,7 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="KOTLIN_BUNDLED" value="D:\Applications\IntelliJ IDEA 2016.2\plugins\Kotlin\kotlinc" />
-    <macro name="MAVEN_REPOSITORY" value="C:\Users\Administrator\.m2\repository" />
+    <macro name="KOTLIN_BUNDLED" value="I:\Applications\IntelliJ IDEA 2016.2\plugins\Kotlin\kotlinc" />
+    <macro name="MAVEN_REPOSITORY" value="C:\Users\Sun\.m2\repository" />
     <macro name="PARENT-1-PROJECT_LOC" value="D:/GameDev/libgdx-1.9.3/gdx" />
   </component>
 </application>
