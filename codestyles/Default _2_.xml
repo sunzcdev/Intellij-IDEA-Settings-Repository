@@ -3,13 +3,14 @@
     <option name="USE_CUSTOM_SETTINGS" value="true" />
   </AndroidXmlCodeStyleSettings>
   <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+    <option name="XML_KEEP_LINE_BREAKS" value="false" />
+    <option name="XML_ALIGN_ATTRIBUTES" value="false" />
+    <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </XML>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
     <arrangement>
       <rules>
