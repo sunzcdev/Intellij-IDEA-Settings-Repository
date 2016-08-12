@@ -15,11 +15,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@git.oschina.net:jamessun/ImportPhone.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@github.com:ReactiveX/RxAndroid.git" />
+          <option name="url" value="git@github.com:android-cjj/BottomSheets.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
