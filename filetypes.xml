@@ -12,7 +12,6 @@
       <mapping pattern="SendCircleDoc" type="PLAIN_TEXT" />
       <mapping pattern="json" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
       <removed_mapping ext="dll" type="UNKNOWN" />
       <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
