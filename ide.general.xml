@@ -8,5 +8,6 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="search.everywhere.configurations" value="false" />
     <entry key="ide.firstStartup" value="false" />
+    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
