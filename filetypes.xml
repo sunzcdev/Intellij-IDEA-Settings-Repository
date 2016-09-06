@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="subject_1" type="Native" />
+      <mapping pattern="subject_4" type="Native" />
       <mapping ext="dll" type="Native" />
       <mapping ext="jaj" type="Native" />
       <mapping ext="exe" type="Native" />
