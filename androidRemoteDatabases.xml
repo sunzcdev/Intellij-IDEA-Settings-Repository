@@ -4,14 +4,14 @@
       <entry>
         <key>
           <db-key>
-            <option name="deviceId" value="SERIAL_NUMBER_TA090040CQ" />
-            <option name="packageName" value="com.dgj.onedream" />
-            <option name="databaseName" value="jpush_statistics.db" />
+            <option name="deviceId" value="SERIAL_NUMBER_Baytrail00005787" />
+            <option name="packageName" value="com.cnjzj.yunxing" />
+            <option name="databaseName" value="subject4.db" />
           </db-key>
         </key>
         <value>
           <db-info>
-            <option name="modificationTime" value="1464230747" />
+            <option name="modificationTime" value="1473755509" />
           </db-info>
         </value>
       </entry>
@@ -19,55 +19,13 @@
         <key>
           <db-key>
             <option name="deviceId" value="SERIAL_NUMBER_TA090040CQ" />
-            <option name="packageName" value="com.dgj.onedream" />
-            <option name="databaseName" value="cc" />
+            <option name="packageName" value="com.cnjzj.yunxing" />
+            <option name="databaseName" value="subject4.db" />
           </db-key>
         </key>
         <value>
           <db-info>
-            <option name="modificationTime" value="1464602863" />
-          </db-info>
-        </value>
-      </entry>
-      <entry>
-        <key>
-          <db-key>
-            <option name="deviceId" value="SERIAL_NUMBER_TA090040CQ" />
-            <option name="packageName" value="com.jzj.yunxing" />
-            <option name="databaseName" value="subject.db" />
-          </db-key>
-        </key>
-        <value>
-          <db-info>
-            <option name="modificationTime" value="1466564698" />
-          </db-info>
-        </value>
-      </entry>
-      <entry>
-        <key>
-          <db-key>
-            <option name="deviceId" value="SERIAL_NUMBER_TA090040CQ" />
-            <option name="packageName" value="com.dgj.onedream" />
-            <option name="databaseName" value="service.db-journal" />
-          </db-key>
-        </key>
-        <value>
-          <db-info>
-            <option name="modificationTime" value="1464622980" />
-          </db-info>
-        </value>
-      </entry>
-      <entry>
-        <key>
-          <db-key>
-            <option name="deviceId" value="SERIAL_NUMBER_TA090040CQ" />
-            <option name="packageName" value="com.dgj.onedream" />
-            <option name="databaseName" value="jpush_local_notification.db" />
-          </db-key>
-        </key>
-        <value>
-          <db-info>
-            <option name="modificationTime" value="1464656079" />
+            <option name="modificationTime" value="1473756345" />
           </db-info>
         </value>
       </entry>
