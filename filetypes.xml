@@ -11,11 +11,13 @@
       <mapping pattern="FETCH_HEAD" type="PLAIN_TEXT" />
       <mapping pattern="购物车文档" type="PLAIN_TEXT" />
       <mapping pattern="界面设计文档" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="doc" type="PLAIN_TEXT" />
       <mapping pattern="签名信息" type="PLAIN_TEXT" />
       <mapping pattern="文档" type="PLAIN_TEXT" />
       <mapping pattern="SendCircleDoc" type="PLAIN_TEXT" />
       <mapping pattern="json" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="prop" type="PLAIN_TEXT" />
       <removed_mapping ext="dll" type="UNKNOWN" />
