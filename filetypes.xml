@@ -8,6 +8,7 @@
       <mapping ext="exe4j" type="Native" />
       <mapping ext="jaj" type="Native" />
       <mapping ext="exe" type="Native" />
+      <mapping ext="jks" type="Native" />
       <mapping ext="db" type="Native" />
       <mapping pattern="修改文档" type="PLAIN_TEXT" />
       <mapping pattern="文档" type="PLAIN_TEXT" />
