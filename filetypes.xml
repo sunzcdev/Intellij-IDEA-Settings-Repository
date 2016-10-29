@@ -1,23 +1,25 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="subject_4" type="Native" />
       <mapping pattern="subject_1" type="Native" />
+      <mapping pattern="subject_4" type="Native" />
       <mapping ext="dll" type="Native" />
+      <mapping ext="db" type="Native" />
       <mapping ext="mp4" type="Native" />
-      <mapping ext="exe4j" type="Native" />
       <mapping ext="jaj" type="Native" />
       <mapping ext="exe" type="Native" />
-      <mapping ext="db" type="Native" />
+      <mapping ext="jks" type="Native" />
+      <mapping ext="exe4j" type="Native" />
       <mapping pattern="修改文档" type="PLAIN_TEXT" />
-      <mapping pattern="文档" type="PLAIN_TEXT" />
       <mapping pattern="FETCH_HEAD" type="PLAIN_TEXT" />
-      <mapping pattern="SendCircleDoc" type="PLAIN_TEXT" />
-      <mapping pattern="界面设计文档" type="PLAIN_TEXT" />
       <mapping pattern="购物车文档" type="PLAIN_TEXT" />
+      <mapping pattern="界面设计文档" type="PLAIN_TEXT" />
+      <mapping pattern="halou" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="签名信息" type="PLAIN_TEXT" />
       <mapping pattern="doc" type="PLAIN_TEXT" />
+      <mapping pattern="签名信息" type="PLAIN_TEXT" />
+      <mapping pattern="文档" type="PLAIN_TEXT" />
+      <mapping pattern="SendCircleDoc" type="PLAIN_TEXT" />
       <mapping pattern="json" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
