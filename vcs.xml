@@ -130,6 +130,10 @@
           <option name="url" value="git@github.com:drakeet/Meizhi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:timrijckaert/AccessibilityServiceScraper.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\Demo" />
