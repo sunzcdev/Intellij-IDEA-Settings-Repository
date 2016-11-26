@@ -1,0 +1,6 @@
+<keymap version="1" name="Eclipse copy 1" parent="Eclipse">
+  <action id="ECTranslation">
+    <keyboard-shortcut first-keystroke="meta i" />
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
+</keymap>
