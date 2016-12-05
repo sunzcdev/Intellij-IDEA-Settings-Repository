@@ -29,6 +29,25 @@
           </db-info>
         </value>
       </entry>
+      <entry>
+        <key>
+          <db-key>
+            <option name="deviceId" value="SERIAL_NUMBER_TA090040CQ" />
+            <option name="packageName" value="com.jzj.yunxing.dengzhou" />
+            <option name="databaseName" value="ads_db" />
+          </db-key>
+        </key>
+        <value>
+          <db-info>
+            <option name="modificationTime" value="1479608646" />
+            <option name="referringProjects">
+              <set>
+                <option value="F:/APP" />
+              </set>
+            </option>
+          </db-info>
+        </value>
+      </entry>
     </databases>
   </component>
 </application>
