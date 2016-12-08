@@ -140,6 +140,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\Demo" />
+    <option name="cloneParentDir" value="F:\" />
   </component>
 </application>
