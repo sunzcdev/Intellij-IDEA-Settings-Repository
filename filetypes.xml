@@ -9,17 +9,18 @@
       <mapping ext="jaj" type="Native" />
       <mapping ext="exe" type="Native" />
       <mapping ext="wav" type="Native" />
+      <mapping ext="7z" type="Native" />
       <mapping ext="jks" type="Native" />
       <mapping ext="exe4j" type="Native" />
       <mapping pattern="修改文档" type="PLAIN_TEXT" />
       <mapping pattern="eee" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="测试数据" type="PLAIN_TEXT" />
       <mapping pattern="versionLog" type="PLAIN_TEXT" />
       <mapping pattern="界面设计文档" type="PLAIN_TEXT" />
       <mapping pattern="halou" type="PLAIN_TEXT" />
       <mapping pattern="购物车文档" type="PLAIN_TEXT" />
       <mapping pattern="客户列表" type="PLAIN_TEXT" />
-      <mapping pattern="测试数据" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="doc" type="PLAIN_TEXT" />
       <mapping pattern="签名信息" type="PLAIN_TEXT" />
       <mapping pattern="文档" type="PLAIN_TEXT" />
