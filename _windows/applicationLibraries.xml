@@ -11,8 +11,6 @@
         <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib" />
         <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32" />
         <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2016.3/system/python_stubs/-1800439883" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
@@ -20,8 +18,6 @@
         <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib" />
         <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32" />
         <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2016.3/system/python_stubs/-1800439883" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
   </component>
