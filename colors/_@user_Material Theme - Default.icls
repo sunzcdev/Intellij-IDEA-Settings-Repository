@@ -3,13 +3,20 @@
     <property name="created">2017-02-26T17:02:20</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.4.0.0</property>
-    <property name="modified">2017-02-27T12:36:56</property>
+    <property name="modified">2017-02-28T22:34:55</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro Semibold" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="WenQuanYi Zen Hei" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <option name="CONSOLE_FONT_NAME" value="YaHei Consolas Hybrid" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
-  <option name="EDITOR_FONT_NAME" value="YaHei Consolas Hybrid" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
     <option name="BORDER_LINES_COLOR" value="" />
