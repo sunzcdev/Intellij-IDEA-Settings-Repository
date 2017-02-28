@@ -1,0 +1,17 @@
+<keymap version="1" name="Eclipse copy 2" parent="Eclipse">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="Arrangement.Alias.Rule.Add" />
+  <action id="Arrangement.Rule.Add" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+  </action>
+  <action id="NewElement" />
+  <action id="RemoteHost.NewRemoteItem" />
+  <action id="Uml.NewElement" />
+</keymap>
