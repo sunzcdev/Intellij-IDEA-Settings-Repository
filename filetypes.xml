@@ -24,6 +24,7 @@
       <mapping pattern="文档" type="PLAIN_TEXT" />
       <mapping pattern="测试数据" type="PLAIN_TEXT" />
       <mapping pattern="halou" type="PLAIN_TEXT" />
+      <mapping pattern="测试" type="PLAIN_TEXT" />
       <mapping pattern="FETCH_HEAD" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="eee" type="PLAIN_TEXT" />
