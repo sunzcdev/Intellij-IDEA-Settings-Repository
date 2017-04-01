@@ -1,0 +1,13 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <option name="INSTRUMENTATION" value="ASSERT" />
+    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
+    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
+    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
+    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="JSON" injector-id="java">
+      <display-name>JSON.parseArray (com.alibaba.fastjson)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("parseArray").withParameters("java.lang.String").definedInClass("com.alibaba.fastjson.JSON"))]]></place>
+    </injection>
+  </component>
+</application>
